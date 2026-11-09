@@ -1,0 +1,353 @@
+
+[
+    {
+        "id": 1,
+        "pregunta": "¿En qué año se lanzó la primera PlayStation?",
+        "respuestas": ["1990", "1994", "1998", "2000"],
+        "correcta": 1,
+        "pista": "Se lanzó a mediados de la década de los 90."
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cómo se llama el protagonista de la saga The Legend of Zelda?",
+        "respuestas": ["Zelda", "Ganondorf", "Link", "Epona"],
+        "correcta": 2,
+        "pista": "Es un joven héroe vestido normalmente de verde."
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Qué empresa creó Mario?",
+        "respuestas": ["SEGA", "Nintendo", "Sony", "Microsoft"],
+        "correcta": 1,
+        "pista": "Es una compañía japonesa conocida por sus consolas y personajes."
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Cómo se llama el erizo azul de SEGA?",
+        "respuestas": ["Shadow", "Tails", "Knuckles", "Sonic"],
+        "correcta": 3,
+        "pista": "Es famoso por correr a velocidades increíbles."
+    },
+    {
+        "id": 5,
+        "pregunta": "¿En qué saga aparece el personaje Kratos?",
+        "respuestas": ["God of War", "Assassin's Creed", "Halo", "Devil May Cry"],
+        "correcta": 0,
+        "pista": "Es una saga protagonizada por un guerrero relacionado con la mitología griega y nórdica."
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Qué compañía desarrolla Minecraft?",
+        "respuestas": ["Ubisoft", "Mojang", "Rockstar", "Capcom"],
+        "correcta": 1,
+        "pista": "Es el estudio sueco que creó el famoso juego de bloques."
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cómo se llama el protagonista de Resident Evil 4?",
+        "respuestas": ["Chris Redfield", "Albert Wesker", "Leon S. Kennedy", "Ethan Winters"],
+        "correcta": 2,
+        "pista": "Es un agente que debe rescatar a la hija del presidente."
+    },
+    {
+        "id": 8,
+        "pregunta": "¿En qué saga aparece el personaje Master Chief?",
+        "respuestas": ["Gears of War", "Destiny", "Doom", "Halo"],
+        "correcta": 3,
+        "pista": "Es una saga de ciencia ficción protagonizada por un supersoldado con armadura verde."
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Qué tipo de juego es Fortnite?",
+        "respuestas": ["Battle Royale", "Carreras", "Simulación", "Plataformas"],
+        "correcta": 0,
+        "pista": "En su modo más conocido, muchos jugadores luchan hasta que solo queda uno o un equipo."
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Cómo se llama el hermano de Mario?",
+        "respuestas": ["Wario", "Luigi", "Toad", "Yoshi"],
+        "correcta": 1,
+        "pista": "Viste de verde y suele acompañar a Mario en sus aventuras."
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Qué empresa creó la saga Pokémon?",
+        "respuestas": ["Square Enix", "Bandai", "Game Freak", "Konami"],
+        "correcta": 2,
+        "pista": "Es el estudio japonés que desarrolló los primeros juegos de Pokémon."
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Cómo se llama el protagonista de la saga God of War?",
+        "respuestas": ["Dante", "Nathan Drake", "Joel", "Kratos"],
+        "correcta": 3,
+        "pista": "Es un guerrero espartano conocido por su gran fuerza y sus tatuajes rojos."
+    },
+    {
+        "id": 13,
+        "pregunta": "¿En qué ciudad transcurre Grand Theft Auto V?",
+        "respuestas": ["Los Santos", "Liberty City", "Vice City", "San Fierro"],
+        "correcta": 0,
+        "pista": "Es una ciudad ficticia inspirada principalmente en Los Ángeles."
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Qué personaje es la mascota de SEGA?",
+        "respuestas": ["Mario", "Sonic", "Crash", "Spyro"],
+        "correcta": 1,
+        "pista": "Es un erizo azul que protagoniza juegos de velocidad."
+    },
+    {
+        "id": 15,
+        "pregunta": "¿En qué año salió Minecraft oficialmente de su fase beta?",
+        "respuestas": ["2009", "2010", "2011", "2013"],
+        "correcta": 2,
+        "pista": "Fue el año en que se publicó oficialmente la versión 1.0."
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Qué arma utiliza principalmente Link en The Legend of Zelda?",
+        "respuestas": ["Un martillo", "Un arco", "Una lanza", "Una espada"],
+        "correcta": 3,
+        "pista": "Es un arma de filo que suele llevar junto a un escudo."
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Qué compañía desarrolló The Witcher 3?",
+        "respuestas": ["CD Projekt Red", "Bethesda", "Valve", "Rockstar"],
+        "correcta": 0,
+        "pista": "Es un estudio polaco responsable también de Cyberpunk 2077."
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cómo se llama el protagonista de Metal Gear Solid?",
+        "respuestas": ["Cloud", "Solid Snake", "Ryu", "Jin"],
+        "correcta": 1,
+        "pista": "Es un soldado especializado en infiltración y operaciones encubiertas."
+    },
+    {
+        "id": 19,
+        "pregunta": "¿En qué saga aparece el personaje Lara Croft?",
+        "respuestas": ["Uncharted", "Resident Evil", "Tomb Raider", "Far Cry"],
+        "correcta": 2,
+        "pista": "Es una aventurera y arqueóloga que explora tumbas y ruinas antiguas."
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Qué empresa fabrica las consolas Xbox?",
+        "respuestas": ["Sony", "Nintendo", "SEGA", "Microsoft"],
+        "correcta": 3,
+        "pista": "Es la empresa creadora del sistema operativo Windows."
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Cómo se llama el mundo de fantasía de The Elder Scrolls V: Skyrim?",
+        "respuestas": ["Tamriel", "Hyrule", "Azeroth", "Midgar"],
+        "correcta": 0,
+        "pista": "Es el continente donde también se encuentran otras regiones de la saga."
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Qué personaje de Street Fighter es conocido por lanzar el Hadouken?",
+        "respuestas": ["Guile", "Ryu", "Zangief", "Blanka"],
+        "correcta": 1,
+        "pista": "Es un luchador japonés que viste un uniforme blanco y una cinta roja."
+    },
+    {
+        "id": 23,
+        "pregunta": "¿En qué saga aparece el personaje Crash Bandicoot?",
+        "respuestas": ["Spyro", "Ratchet & Clank", "Crash Bandicoot", "Jak and Daxter"],
+        "correcta": 2,
+        "pista": "Es un marsupial naranja que gira para atacar a sus enemigos."
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Qué compañía desarrolló Red Dead Redemption 2?",
+        "respuestas": ["Ubisoft", "Electronic Arts", "Naughty Dog", "Rockstar Games"],
+        "correcta": 3,
+        "pista": "Es la misma compañía responsable de Grand Theft Auto."
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Cómo se llama el dinosaurio compañero de Mario?",
+        "respuestas": ["Yoshi", "Bowser", "Toad", "Donkey Kong"],
+        "correcta": 0,
+        "pista": "Es de color verde y puede tragarse a los enemigos."
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Qué videojuego popularizó el género MOBA junto a otros títulos pioneros?",
+        "respuestas": ["Overwatch", "League of Legends", "Minecraft", "FIFA"],
+        "correcta": 1,
+        "pista": "Se conoce habitualmente por las siglas LoL."
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Cómo se llama el protagonista de Half-Life?",
+        "respuestas": ["Isaac Clarke", "Doom Slayer", "Gordon Freeman", "Max Payne"],
+        "correcta": 2,
+        "pista": "Es un científico que trabaja en un centro de investigación llamado Black Mesa."
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué compañía desarrolló la saga Dark Souls?",
+        "respuestas": ["Capcom", "Konami", "Naughty Dog", "FromSoftware"],
+        "correcta": 3,
+        "pista": "Es un estudio japonés conocido por crear juegos de gran dificultad."
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Qué personaje es conocido como el fontanero de Nintendo?",
+        "respuestas": ["Mario", "Sonic", "Link", "Kirby"],
+        "correcta": 0,
+        "pista": "Es un personaje con gorra roja y bigote."
+    },
+    {
+        "id": 30,
+        "pregunta": "¿En qué saga aparece el personaje Ezio Auditore?",
+        "respuestas": ["Far Cry", "Assassin's Creed", "Watch Dogs", "Splinter Cell"],
+        "correcta": 1,
+        "pista": "Es un asesino italiano que protagoniza varias entregas ambientadas en el Renacimiento."
+    },
+    {
+        "id": 31,
+        "pregunta": "¿Cómo se llama la protagonista de Horizon Zero Dawn?",
+        "respuestas": ["Ellie", "Jill Valentine", "Aloy", "Ciri"],
+        "correcta": 2,
+        "pista": "Es una cazadora pelirroja que explora un mundo con máquinas con forma de animales."
+    },
+    {
+        "id": 32,
+        "pregunta": "¿Qué tipo de criatura es Pikachu?",
+        "respuestas": ["Fuego", "Agua", "Planta", "Eléctrico"],
+        "correcta": 3,
+        "pista": "Sus ataques más conocidos utilizan rayos y electricidad."
+    },
+    {
+        "id": 33,
+        "pregunta": "¿En qué videojuego aparece el personaje GLaDOS?",
+        "respuestas": ["Portal", "Half-Life", "BioShock", "Doom"],
+        "correcta": 0,
+        "pista": "Es una inteligencia artificial que controla unas instalaciones de pruebas con portales."
+    },
+    {
+        "id": 34,
+        "pregunta": "¿Qué empresa desarrolló la saga Resident Evil?",
+        "respuestas": ["Konami", "Capcom", "Square Enix", "Namco"],
+        "correcta": 1,
+        "pista": "Es una compañía japonesa que también creó Street Fighter."
+    },
+    {
+        "id": 35,
+        "pregunta": "¿Cómo se llama el protagonista de Final Fantasy VII?",
+        "respuestas": ["Squall", "Noctis", "Cloud Strife", "Tidus"],
+        "correcta": 2,
+        "pista": "Es un mercenario que utiliza una enorme espada llamada espada mortal."
+    },
+    {
+        "id": 36,
+        "pregunta": "¿Qué videojuego tiene como protagonista a Arthur Morgan?",
+        "respuestas": ["GTA V", "The Last of Us", "Mafia", "Red Dead Redemption 2"],
+        "correcta": 3,
+        "pista": "Es una aventura ambientada en el Salvaje Oeste."
+    },
+    {
+        "id": 37,
+        "pregunta": "¿Qué personaje de Nintendo es una bola rosa que absorbe enemigos?",
+        "respuestas": ["Kirby", "Jigglypuff", "Toad", "Yoshi"],
+        "correcta": 0,
+        "pista": "Puede copiar las habilidades de muchos enemigos al tragárselos."
+    },
+    {
+        "id": 38,
+        "pregunta": "¿Qué empresa desarrolló Overwatch?",
+        "respuestas": ["Valve", "Blizzard Entertainment", "Epic Games", "Riot Games"],
+        "correcta": 1,
+        "pista": "Es la compañía que también creó World of Warcraft."
+    },
+    {
+        "id": 39,
+        "pregunta": "¿En qué saga aparece el personaje Dante?",
+        "respuestas": ["Bayonetta", "God of War", "Devil May Cry", "Darksiders"],
+        "correcta": 2,
+        "pista": "Es una saga de acción protagonizada por un cazador de demonios."
+    },
+    {
+        "id": 40,
+        "pregunta": "¿Cómo se llama el protagonista de The Last of Us?",
+        "respuestas": ["Nathan Drake", "Sam Porter", "Leon Kennedy", "Joel"],
+        "correcta": 3,
+        "pista": "Es un superviviente que acompaña a Ellie en su viaje."
+    },
+    {
+        "id": 41,
+        "pregunta": "¿Qué consola lanzó Nintendo en 2017?",
+        "respuestas": ["Nintendo Switch", "Wii U", "Nintendo 3DS", "GameCube"],
+        "correcta": 0,
+        "pista": "Es una consola híbrida que puede utilizarse tanto en televisión como en modo portátil."
+    },
+    {
+        "id": 42,
+        "pregunta": "¿Qué personaje protagoniza la saga Mega Man?",
+        "respuestas": ["Zero", "Mega Man", "Samus", "Kirby"],
+        "correcta": 1,
+        "pista": "Es un robot azul conocido también como Rockman en Japón."
+    },
+    {
+        "id": 43,
+        "pregunta": "¿En qué videojuego aparece la ciudad de Rapture?",
+        "respuestas": ["Fallout 3", "Dishonored", "BioShock", "Prey"],
+        "correcta": 2,
+        "pista": "Es una ciudad submarina ficticia."
+    },
+    {
+        "id": 44,
+        "pregunta": "¿Qué empresa desarrolló The Last of Us?",
+        "respuestas": ["Insomniac Games", "Santa Monica Studio", "Guerrilla Games", "Naughty Dog"],
+        "correcta": 3,
+        "pista": "Es el estudio responsable también de la saga Uncharted."
+    },
+    {
+        "id": 45,
+        "pregunta": "¿Cómo se llama el protagonista de Persona 5?",
+        "respuestas": ["Joker", "Ryuji", "Morgana", "Akechi"],
+        "correcta": 0,
+        "pista": "Es el líder de los Ladrones Fantasma y utiliza una máscara."
+    },
+    {
+        "id": 46,
+        "pregunta": "¿Qué videojuego está protagonizado por un personaje llamado Samus Aran?",
+        "respuestas": ["Halo", "Metroid", "Doom", "Star Fox"],
+        "correcta": 1,
+        "pista": "Es una saga de ciencia ficción protagonizada por una cazarrecompensas espacial."
+    },
+    {
+        "id": 47,
+        "pregunta": "¿Qué saga de videojuegos está ambientada principalmente en el mundo de Azeroth?",
+        "respuestas": ["Diablo", "The Elder Scrolls", "Warcraft", "Final Fantasy"],
+        "correcta": 2,
+        "pista": "Es una saga de fantasía que incluye el famoso juego World of Warcraft."
+    },
+    {
+        "id": 48,
+        "pregunta": "¿Qué personaje es el principal antagonista de la saga Super Mario?",
+        "respuestas": ["Wario", "Donkey Kong", "Waluigi", "Bowser"],
+        "correcta": 3,
+        "pista": "Es una gran tortuga con caparazón y pinchos que suele secuestrar a Peach."
+    },
+    {
+        "id": 49,
+        "pregunta": "¿Qué compañía creó la saga Gran Turismo?",
+        "respuestas": ["Polyphony Digital", "Turn 10 Studios", "Codemasters", "Ubisoft"],
+        "correcta": 0,
+        "pista": "Es un estudio japonés especializado en simuladores de conducción."
+    },
+    {
+        "id": 50,
+        "pregunta": "¿En qué videojuego aparece el personaje Geralt de Rivia?",
+        "respuestas": ["Dragon Age", "The Witcher", "Skyrim", "Dragon's Dogma"],
+        "correcta": 1,
+        "pista": "Es un cazador de monstruos conocido como brujo."
+    }
+]

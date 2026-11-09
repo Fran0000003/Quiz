@@ -1,0 +1,353 @@
+
+[
+    {
+        "id": 1,
+        "pregunta": "¿Cuál es la capital de Francia?",
+        "respuestas": ["Madrid", "París", "Roma", "Berlín"],
+        "correcta": 1,
+        "pista": "Es una ciudad famosa por la Torre Eiffel."
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cuántos continentes hay en el modelo de siete continentes?",
+        "respuestas": ["Cinco", "Seis", "Siete", "Ocho"],
+        "correcta": 2,
+        "pista": "Es el número de continentes que da nombre a este modelo."
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Cuál es el océano más grande del planeta?",
+        "respuestas": ["Atlántico", "Índico", "Ártico", "Pacífico"],
+        "correcta": 3,
+        "pista": "Se encuentra entre Asia, Oceanía y América."
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Quién escribió Don Quijote de la Mancha?",
+        "respuestas": ["Miguel de Cervantes", "Federico García Lorca", "Lope de Vega", "Francisco de Quevedo"],
+        "correcta": 0,
+        "pista": "Fue un escritor español conocido como el autor del Siglo de Oro."
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+        "respuestas": ["Venus", "Mercurio", "Marte", "Tierra"],
+        "correcta": 1,
+        "pista": "Es también el planeta más pequeño del sistema solar."
+    },
+    {
+        "id": 6,
+        "pregunta": "¿En qué país se encuentran las pirámides de Guiza?",
+        "respuestas": ["México", "Grecia", "Egipto", "India"],
+        "correcta": 2,
+        "pista": "Es un país africano atravesado por el río Nilo."
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cuántos lados tiene un hexágono?",
+        "respuestas": ["Cinco", "Siete", "Ocho", "Seis"],
+        "correcta": 3,
+        "pista": "Su nombre comienza por el prefijo griego que significa seis."
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Quién pintó la Mona Lisa?",
+        "respuestas": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Salvador Dalí"],
+        "correcta": 0,
+        "pista": "Fue un artista italiano del Renacimiento."
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Cuál es el animal terrestre más grande?",
+        "respuestas": ["Rinoceronte", "Elefante africano", "Jirafa", "Hipopótamo"],
+        "correcta": 1,
+        "pista": "Tiene grandes orejas y una trompa."
+    },
+    {
+        "id": 10,
+        "pregunta": "¿En qué año llegó el ser humano a la Luna por primera vez?",
+        "respuestas": ["1965", "1972", "1969", "1959"],
+        "correcta": 2,
+        "pista": "Ocurrió un año antes de que comenzara la década de 1970."
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "respuestas": ["Kioto", "Osaka", "Hiroshima", "Tokio"],
+        "correcta": 3,
+        "pista": "Es la ciudad japonesa donde se encuentra el famoso cruce de Shibuya."
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Qué gas necesitan las plantas para realizar la fotosíntesis?",
+        "respuestas": ["Dióxido de carbono", "Oxígeno", "Nitrógeno", "Hidrógeno"],
+        "correcta": 0,
+        "pista": "Es el gas que expulsamos al respirar."
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Quién compuso la Novena Sinfonía?",
+        "respuestas": ["Mozart", "Ludwig van Beethoven", "Bach", "Chopin"],
+        "correcta": 1,
+        "pista": "Fue un compositor alemán que siguió componiendo pese a quedarse sordo."
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Cuál es el río más largo de Europa?",
+        "respuestas": ["Danubio", "Rin", "Volga", "Támesis"],
+        "correcta": 2,
+        "pista": "Discurre principalmente por Rusia y desemboca en el mar Caspio."
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Cuántos jugadores tiene un equipo de fútbol en el campo al comenzar un partido?",
+        "respuestas": ["9", "10", "12", "11"],
+        "correcta": 3,
+        "pista": "Es un número impar situado entre diez y doce."
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Cuál es el idioma más hablado del mundo por número de hablantes nativos?",
+        "respuestas": ["Chino mandarín", "Inglés", "Español", "Hindi"],
+        "correcta": 0,
+        "pista": "Es una lengua originaria de China."
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Qué país tiene forma de bota?",
+        "respuestas": ["Grecia", "Italia", "Portugal", "Croacia"],
+        "correcta": 1,
+        "pista": "Su capital es Roma."
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cuál es el símbolo químico del oro?",
+        "respuestas": ["Ag", "Fe", "Au", "O"],
+        "correcta": 2,
+        "pista": "Procede de su nombre latino, aurum."
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Quién fue el primer ser humano en viajar al espacio?",
+        "respuestas": ["Neil Armstrong", "Buzz Aldrin", "John Glenn", "Yuri Gagarin"],
+        "correcta": 3,
+        "pista": "Fue un cosmonauta soviético."
+    },
+    {
+        "id": 20,
+        "pregunta": "¿En qué país se encuentra la Torre de Pisa?",
+        "respuestas": ["Italia", "Francia", "España", "Alemania"],
+        "correcta": 0,
+        "pista": "Es el mismo país donde se encuentra el Coliseo de Roma."
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Cuántos huesos tiene aproximadamente un adulto?",
+        "respuestas": ["180", "206", "250", "300"],
+        "correcta": 1,
+        "pista": "Es un número que supera los doscientos."
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Cuál es el desierto cálido más grande del mundo?",
+        "respuestas": ["Gobi", "Kalahari", "Sáhara", "Atacama"],
+        "correcta": 2,
+        "pista": "Se encuentra en el norte de África."
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Qué instrumento tiene normalmente 88 teclas?",
+        "respuestas": ["Violín", "Guitarra", "Acordeón", "Piano"],
+        "correcta": 3,
+        "pista": "Tiene teclas blancas y negras."
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "respuestas": ["Canberra", "Sídney", "Melbourne", "Perth"],
+        "correcta": 0,
+        "pista": "No es Sídney ni Melbourne; fue elegida como capital para evitar favorecer a esas dos ciudades."
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Qué científico formuló la teoría de la relatividad?",
+        "respuestas": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+        "correcta": 1,
+        "pista": "Es famoso por la ecuación E = mc²."
+    },
+    {
+        "id": 26,
+        "pregunta": "¿En qué deporte se utiliza un volante?",
+        "respuestas": ["Tenis", "Squash", "Bádminton", "Pádel"],
+        "correcta": 2,
+        "pista": "Se juega con raquetas y una pieza ligera con plumas."
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Cuál es el país más grande del mundo por superficie?",
+        "respuestas": ["Canadá", "China", "Estados Unidos", "Rusia"],
+        "correcta": 3,
+        "pista": "Se extiende por Europa y Asia."
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué órgano bombea la sangre por el cuerpo?",
+        "respuestas": ["Corazón", "Pulmón", "Hígado", "Riñón"],
+        "correcta": 0,
+        "pista": "Late continuamente y se encuentra en el pecho."
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Quién escribió Romeo y Julieta?",
+        "respuestas": ["Charles Dickens", "William Shakespeare", "Oscar Wilde", "Jane Austen"],
+        "correcta": 1,
+        "pista": "Fue un dramaturgo inglés conocido por Hamlet y Macbeth."
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Cuál es la moneda oficial de Japón?",
+        "respuestas": ["Yuan", "Won", "Yen", "Dólar"],
+        "correcta": 2,
+        "pista": "Su símbolo suele representarse con el carácter ¥."
+    },
+    {
+        "id": 31,
+        "pregunta": "¿Qué metal es líquido a temperatura ambiente?",
+        "respuestas": ["Hierro", "Cobre", "Aluminio", "Mercurio"],
+        "correcta": 3,
+        "pista": "Se utilizaba antiguamente en muchos termómetros."
+    },
+    {
+        "id": 32,
+        "pregunta": "¿Cuál es el pico más alto del mundo?",
+        "respuestas": ["Everest", "K2", "Mont Blanc", "Aconcagua"],
+        "correcta": 0,
+        "pista": "Se encuentra en la cordillera del Himalaya."
+    },
+    {
+        "id": 33,
+        "pregunta": "¿En qué país se originaron los Juegos Olímpicos antiguos?",
+        "respuestas": ["Italia", "Grecia", "Egipto", "Turquía"],
+        "correcta": 1,
+        "pista": "En este país se encuentra la antigua ciudad de Olimpia."
+    },
+    {
+        "id": 34,
+        "pregunta": "¿Cuál es el planeta conocido como el planeta rojo?",
+        "respuestas": ["Venus", "Júpiter", "Marte", "Saturno"],
+        "correcta": 2,
+        "pista": "Su superficie tiene un aspecto rojizo debido al óxido de hierro."
+    },
+    {
+        "id": 35,
+        "pregunta": "¿Qué científico descubrió la penicilina?",
+        "respuestas": ["Louis Pasteur", "Marie Curie", "Charles Darwin", "Alexander Fleming"],
+        "correcta": 3,
+        "pista": "Era un médico y científico escocés."
+    },
+    {
+        "id": 36,
+        "pregunta": "¿Cuál es la capital de Portugal?",
+        "respuestas": ["Lisboa", "Oporto", "Coímbra", "Faro"],
+        "correcta": 0,
+        "pista": "Es una ciudad situada junto a la desembocadura del río Tajo."
+    },
+    {
+        "id": 37,
+        "pregunta": "¿Cuántos colores tiene el arcoíris tradicionalmente?",
+        "respuestas": ["Seis", "Siete", "Ocho", "Cinco"],
+        "correcta": 1,
+        "pista": "Es el número de días que tiene una semana."
+    },
+    {
+        "id": 38,
+        "pregunta": "¿Qué animal es conocido como el rey de la selva?",
+        "respuestas": ["Tigre", "Leopardo", "León", "Elefante"],
+        "correcta": 2,
+        "pista": "El macho suele tener una gran melena."
+    },
+    {
+        "id": 39,
+        "pregunta": "¿En qué continente se encuentra Argentina?",
+        "respuestas": ["Europa", "África", "Asia", "América del Sur"],
+        "correcta": 3,
+        "pista": "Es el continente donde también se encuentran Brasil y Chile."
+    },
+    {
+        "id": 40,
+        "pregunta": "¿Qué vitamina produce el cuerpo principalmente al exponerse a la luz solar?",
+        "respuestas": ["Vitamina D", "Vitamina C", "Vitamina B12", "Vitamina A"],
+        "correcta": 0,
+        "pista": "Ayuda al organismo a absorber el calcio."
+    },
+    {
+        "id": 41,
+        "pregunta": "¿Cuál es la capital de Canadá?",
+        "respuestas": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+        "correcta": 1,
+        "pista": "Es una ciudad situada en la provincia de Ontario."
+    },
+    {
+        "id": 42,
+        "pregunta": "¿Qué artista pintó Guernica?",
+        "respuestas": ["Joan Miró", "Salvador Dalí", "Pablo Picasso", "Francisco de Goya"],
+        "correcta": 2,
+        "pista": "Fue un pintor malagueño considerado uno de los grandes artistas del siglo XX."
+    },
+    {
+        "id": 43,
+        "pregunta": "¿Cuál es el mamífero más grande del planeta?",
+        "respuestas": ["Elefante africano", "Orca", "Tiburón ballena", "Ballena azul"],
+        "correcta": 3,
+        "pista": "Es un cetáceo que puede superar los 30 metros de longitud."
+    },
+    {
+        "id": 44,
+        "pregunta": "¿Qué país regaló la Estatua de la Libertad a Estados Unidos?",
+        "respuestas": ["Francia", "Reino Unido", "Italia", "España"],
+        "correcta": 0,
+        "pista": "Es un país europeo cuya capital es París."
+    },
+    {
+        "id": 45,
+        "pregunta": "¿Qué elemento químico tiene el símbolo O?",
+        "respuestas": ["Oro", "Oxígeno", "Osmio", "Ozono"],
+        "correcta": 1,
+        "pista": "Es un gas esencial para la respiración humana."
+    },
+    {
+        "id": 46,
+        "pregunta": "¿En qué ciudad se encuentra el Coliseo?",
+        "respuestas": ["Atenas", "París", "Roma", "Estambul"],
+        "correcta": 2,
+        "pista": "Es la capital de Italia."
+    },
+    {
+        "id": 47,
+        "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+        "respuestas": ["Español", "Inglés", "Francés", "Portugués"],
+        "correcta": 3,
+        "pista": "Es el mismo idioma que se habla en Portugal."
+    },
+    {
+        "id": 48,
+        "pregunta": "¿Qué gas es el más abundante en la atmósfera terrestre?",
+        "respuestas": ["Nitrógeno", "Oxígeno", "Dióxido de carbono", "Hidrógeno"],
+        "correcta": 0,
+        "pista": "Representa aproximadamente el 78 % del aire."
+    },
+    {
+        "id": 49,
+        "pregunta": "¿Quién escribió La Odisea?",
+        "respuestas": ["Sófocles", "Homero", "Platón", "Aristóteles"],
+        "correcta": 1,
+        "pista": "Fue un poeta de la antigua Grecia al que también se atribuye La Ilíada."
+    },
+    {
+        "id": 50,
+        "pregunta": "¿Cuántos minutos tiene una hora?",
+        "respuestas": ["50", "100", "60", "90"],
+        "correcta": 2,
+        "pista": "Es el doble de treinta minutos."
+    }
+]

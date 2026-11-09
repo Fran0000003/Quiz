@@ -1,0 +1,134 @@
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Mi página de Quiz</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- CABECERA -->
+    <header>
+
+        <h1>Mi página de Quiz</h1>
+
+        <p>Pon a prueba tus conocimientos</p>
+
+    </header>
+
+
+    <!-- MENÚ PRINCIPAL -->
+    <main>
+
+        <h2>Selecciona un cuestionario</h2>
+
+       <!-- CATEGORÍAS -->
+    <div id="menu-cuestionarios">
+
+    <button id="informatica">Informática</button>
+
+    <button id="videojuegos">Videojuegos</button>
+
+    <button id="cultura">Cultura general</button>
+
+    </div>
+
+    <!-- SEPARADOR -->
+    <hr id="separador-menu">
+
+    <!-- ACCESO AL RANKING -->
+    <button id="ver-ranking-menu">🏆 Ver ranking</button>
+
+    </main>
+
+
+    <!-- ZONA DEL CUESTIONARIO -->
+    <section id="zona-quiz" hidden>
+
+        <!-- CONTADOR DE PREGUNTAS -->
+        <p id="contador-preguntas">Pregunta 1 de 10</p>
+
+        <!-- BARRA DE PROGRESO -->
+        <div id="contenedor-progreso">
+
+            <div id="barra-progreso"></div>
+
+        </div>
+
+        <!-- ENUNCIADO DE LA PREGUNTA -->
+        <h2 id="pregunta"></h2>
+
+        <!-- ZONA DE RESPUESTAS -->
+        <div id="respuestas"></div>
+
+        <!-- BOTÓN PARA MOSTRAR LA PISTA -->
+        <button id="ver-pista">Ver pista</button>
+
+        <!-- TEXTO DE LA PISTA -->
+        <p id="texto-pista" hidden></p>
+
+        <!-- BOTONES DEL CUESTIONARIO -->
+        <button id="confirmar">Confirmar respuesta</button>
+
+        <button id="siguiente" hidden>Siguiente pregunta</button>
+
+    </section>
+
+
+    <!-- PANTALLA DE RESULTADOS -->
+    <section id="zona-resultados" hidden>
+
+        <h2>¡Cuestionario terminado!</h2>
+
+        <p id="resultado-puntuacion"></p>
+
+
+        <!-- GUARDAR PUNTUACIÓN -->
+        <h3>Guardar puntuación</h3>
+
+        <input
+            type="text"
+            id="nombre-jugador"
+            placeholder="Escribe tu nombre"
+        >
+
+        <button id="guardar-puntuacion">
+            Guardar puntuación
+        </button>
+
+
+        <!-- RANKING -->
+        <h2>Ranking de puntuaciones</h2>
+
+        <div id="lista-ranking"></div>
+
+
+        <!-- VOLVER AL MENÚ -->
+        <button id="volver-menu">Volver al menú</button>
+
+    </section>
+
+    <!-- PANTALLA DEL RANKING -->
+    <section id="zona-ranking-menu" hidden>
+
+    <h2>Ranking de puntuaciones</h2>
+
+    <div id="lista-ranking-menu"></div>
+
+    <button id="volver-menu-ranking">Volver al menú</button>
+
+    </section>
+
+
+    <!-- ARCHIVO JAVASCRIPT -->
+    <script src="js/menu.js"></script>
+
+</body>
+
+</html>

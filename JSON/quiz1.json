@@ -1,0 +1,353 @@
+
+[
+    {
+        "id": 1,
+        "pregunta": "¿Qué significa CPU?",
+        "respuestas": ["Unidad Central de Procesamiento", "Control Principal Universal", "Unidad de Control Personal", "Centro de Procesamiento Único"],
+        "correcta": 0,
+        "pista": "Son las siglas en inglés de la unidad que actúa como el cerebro del ordenador."
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Qué componente almacena temporalmente los datos en uso?",
+        "respuestas": ["Disco duro", "Memoria RAM", "Tarjeta gráfica", "Fuente de alimentación"],
+        "correcta": 1,
+        "pista": "Es una memoria rápida y temporal que pierde su contenido al apagar el equipo."
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Qué sistema operativo desarrolla Microsoft?",
+        "respuestas": ["Linux", "macOS", "Windows", "Android"],
+        "correcta": 2,
+        "pista": "Es el sistema operativo cuyo nombre también identifica a una ventana en inglés."
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Qué significa HTML?",
+        "respuestas": ["HyperText Markup Language", "High Technology Modern Language", "Home Tool Markup Language", "Hyper Transfer Machine Language"],
+        "correcta": 0,
+        "pista": "Son las siglas de un lenguaje de marcado utilizado para estructurar páginas web."
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cuál es la función principal de un disco SSD?",
+        "respuestas": ["Procesar gráficos", "Almacenar datos", "Refrigerar el procesador", "Conectar a Internet"],
+        "correcta": 1,
+        "pista": "Es una unidad de almacenamiento que utiliza memoria flash y no tiene partes móviles."
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Qué dispositivo permite introducir texto en un ordenador?",
+        "respuestas": ["Monitor", "Impresora", "Teclado", "Altavoz"],
+        "correcta": 2,
+        "pista": "Es el periférico que tiene teclas con letras, números y símbolos."
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Qué significa RAM?",
+        "respuestas": ["Random Access Memory", "Read Automatic Memory", "Rapid Active Machine", "Remote Access Module"],
+        "correcta": 0,
+        "pista": "Son las siglas en inglés de la memoria de acceso aleatorio."
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Qué lenguaje se utiliza principalmente para dar estilo a páginas web?",
+        "respuestas": ["Python", "CSS", "SQL", "Java"],
+        "correcta": 1,
+        "pista": "Es un lenguaje de hojas de estilo cuyas siglas significan Cascading Style Sheets."
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Cuál de estos es un navegador web?",
+        "respuestas": ["Windows", "Excel", "Google Chrome", "Photoshop"],
+        "correcta": 2,
+        "pista": "Es el navegador cuyo nombre incluye la palabra Chrome."
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Qué componente se encarga de procesar los gráficos?",
+        "respuestas": ["Fuente de alimentación", "Tarjeta gráfica", "Memoria RAM", "Disco duro"],
+        "correcta": 1,
+        "pista": "Es el componente dedicado a generar y procesar imágenes y vídeo."
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Qué extensión suelen tener los archivos de JavaScript?",
+        "respuestas": [".html", ".css", ".js", ".jpg"],
+        "correcta": 2,
+        "pista": "Es la extensión formada por las dos primeras letras de Java y la inicial de Script."
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Qué es una dirección IP?",
+        "respuestas": ["Un identificador de red", "Un tipo de procesador", "Un programa antivirus", "Un formato de imagen"],
+        "correcta": 0,
+        "pista": "Es una serie de números que identifica un dispositivo dentro de una red."
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Qué significa USB?",
+        "respuestas": ["Universal Serial Bus", "United System Board", "Universal Software Base", "User System Backup"],
+        "correcta": 0,
+        "pista": "Son las siglas en inglés de Bus Universal en Serie."
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Qué dispositivo permite imprimir documentos?",
+        "respuestas": ["Escáner", "Impresora", "Ratón", "Micrófono"],
+        "correcta": 1,
+        "pista": "Es el periférico que utiliza tinta o tóner para pasar documentos al papel."
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Qué es un sistema operativo?",
+        "respuestas": ["Un componente físico", "Un programa para editar imágenes", "Software que gestiona el ordenador", "Un tipo de conexión"],
+        "correcta": 2,
+        "pista": "Es el software principal que administra los recursos y permite utilizar el equipo."
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Qué significa WWW?",
+        "respuestas": ["World Wide Web", "World Web Window", "Wide World Windows", "Web World Work"],
+        "correcta": 0,
+        "pista": "Son las siglas de la red mundial de páginas y recursos enlazados."
+    },
+    {
+        "id": 17,
+        "pregunta": "¿Cuál de estos es un lenguaje de programación?",
+        "respuestas": ["HTML", "Python", "HTTP", "JPEG"],
+        "correcta": 1,
+        "pista": "Es un lenguaje de programación cuyo nombre también significa una serpiente en inglés."
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Qué función tiene un antivirus?",
+        "respuestas": ["Aumentar la memoria RAM", "Mejorar la pantalla", "Detectar y eliminar software malicioso", "Crear páginas web"],
+        "correcta": 2,
+        "pista": "Su función es localizar amenazas como virus, troyanos y otros programas dañinos."
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Qué significa PDF?",
+        "respuestas": ["Portable Document Format", "Personal Data File", "Program Document Function", "Public Digital Format"],
+        "correcta": 0,
+        "pista": "Son las siglas en inglés de Formato de Documento Portátil."
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Cuál es la unidad básica de información digital?",
+        "respuestas": ["Byte", "Bit", "Kilobyte", "Megabyte"],
+        "correcta": 1,
+        "pista": "Es una unidad de información que puede representar un 0 o un 1."
+    },
+    {
+        "id": 21,
+        "pregunta": "¿Qué componente suministra energía eléctrica al ordenador?",
+        "respuestas": ["Procesador", "Placa base", "Fuente de alimentación", "Memoria RAM"],
+        "correcta": 2,
+        "pista": "Es el componente que convierte la corriente eléctrica para alimentar el ordenador."
+    },
+    {
+        "id": 22,
+        "pregunta": "¿Qué es una LAN?",
+        "respuestas": ["Una red de área local", "Un lenguaje de programación", "Un tipo de memoria", "Un sistema operativo"],
+        "correcta": 0,
+        "pista": "Es una red que conecta dispositivos dentro de un espacio reducido, como una oficina."
+    },
+    {
+        "id": 23,
+        "pregunta": "¿Qué significa HTTP?",
+        "respuestas": ["High Transfer Text Program", "HyperText Transfer Protocol", "Home Tool Transfer Process", "Hyperlink Technical Text Program"],
+        "correcta": 1,
+        "pista": "Es el protocolo que permite transferir páginas y recursos web."
+    },
+    {
+        "id": 24,
+        "pregunta": "¿Cuál de estos dispositivos es de salida?",
+        "respuestas": ["Teclado", "Ratón", "Monitor", "Escáner"],
+        "correcta": 2,
+        "pista": "Es la pantalla del ordenador, donde se muestran imágenes y texto."
+    },
+    {
+        "id": 25,
+        "pregunta": "¿Qué es el phishing?",
+        "respuestas": ["Un intento de engaño para robar información", "Un tipo de procesador", "Una técnica de impresión", "Un sistema operativo"],
+        "correcta": 0,
+        "pista": "Es una técnica de engaño que suele utilizar correos o páginas falsas para obtener datos."
+    },
+    {
+        "id": 26,
+        "pregunta": "¿Qué empresa desarrolla el sistema operativo Android?",
+        "respuestas": ["Apple", "Google", "Microsoft", "IBM"],
+        "correcta": 1,
+        "pista": "Es la empresa conocida por el buscador Google y por desarrollar Android."
+    },
+    {
+        "id": 27,
+        "pregunta": "¿Qué significa BIOS?",
+        "respuestas": ["Basic Internet Operating System", "Binary Input Output Software", "Basic Input/Output System", "Boot Internal Operating Service"],
+        "correcta": 2,
+        "pista": "Son las siglas de Sistema Básico de Entrada y Salida, en inglés."
+    },
+    {
+        "id": 28,
+        "pregunta": "¿Qué es una base de datos?",
+        "respuestas": ["Un conjunto organizado de información", "Un dispositivo de almacenamiento externo", "Un programa antivirus", "Un cable de red"],
+        "correcta": 0,
+        "pista": "Organiza datos relacionados para poder almacenarlos, consultarlos y gestionarlos."
+    },
+    {
+        "id": 29,
+        "pregunta": "¿Qué lenguaje se utiliza para consultar bases de datos?",
+        "respuestas": ["CSS", "SQL", "HTML", "XML"],
+        "correcta": 1,
+        "pista": "Es el lenguaje de consultas cuyo nombre tiene tres letras y se usa con bases de datos."
+    },
+    {
+        "id": 30,
+        "pregunta": "¿Qué tecla se utiliza normalmente para borrar caracteres a la izquierda del cursor?",
+        "respuestas": ["Enter", "Shift", "Backspace", "Tab"],
+        "correcta": 2,
+        "pista": "Es la tecla que suele tener una flecha apuntando hacia la izquierda y elimina lo anterior al cursor."
+    },
+    {
+        "id": 31,
+        "pregunta": "¿Qué es el software?",
+        "respuestas": ["El conjunto de programas de un sistema", "Los componentes físicos del ordenador", "Un cable de conexión", "Una pieza de refrigeración"],
+        "correcta": 0,
+        "pista": "Es la parte lógica del ordenador: programas, aplicaciones e instrucciones."
+    },
+    {
+        "id": 32,
+        "pregunta": "¿Qué es el hardware?",
+        "respuestas": ["Los programas instalados", "Los componentes físicos del ordenador", "Los datos de Internet", "Un lenguaje de programación"],
+        "correcta": 1,
+        "pista": "Es la parte física del ordenador, formada por componentes que se pueden tocar."
+    },
+    {
+        "id": 33,
+        "pregunta": "¿Qué significa DNS?",
+        "respuestas": ["Digital Network Service", "Data Name System", "Domain Name System", "Dynamic Network Software"],
+        "correcta": 2,
+        "pista": "Es el sistema que traduce nombres de dominio, como ejemplo.com, a direcciones IP."
+    },
+    {
+        "id": 34,
+        "pregunta": "¿Qué dispositivo se utiliza para digitalizar documentos en papel?",
+        "respuestas": ["Escáner", "Altavoz", "Proyector", "Router"],
+        "correcta": 0,
+        "pista": "Es un periférico que captura una imagen de un documento físico."
+    },
+    {
+        "id": 35,
+        "pregunta": "¿Qué es el código fuente?",
+        "respuestas": ["Un archivo de imagen", "El conjunto de instrucciones de un programa", "Una dirección IP", "Una memoria externa"],
+        "correcta": 1,
+        "pista": "Es el texto con instrucciones escritas por un programador antes de ejecutarse o compilarse."
+    },
+    {
+        "id": 36,
+        "pregunta": "¿Qué significa Wi-Fi?",
+        "respuestas": ["Wireless File", "Wide Frequency", "Tecnología de conexión inalámbrica a redes", "Windows Fiber"],
+        "correcta": 2,
+        "pista": "Permite conectar dispositivos a una red sin utilizar un cable de red."
+    },
+    {
+        "id": 37,
+        "pregunta": "¿Cuál es la función de una placa base?",
+        "respuestas": ["Conectar y permitir la comunicación entre componentes", "Imprimir documentos", "Almacenar archivos permanentemente", "Mostrar imágenes"],
+        "correcta": 0,
+        "pista": "Es la tarjeta principal donde se conectan el procesador, la memoria y otros componentes."
+    },
+    {
+        "id": 38,
+        "pregunta": "¿Qué extensión corresponde normalmente a una imagen JPEG?",
+        "respuestas": [".mp3", ".jpg", ".exe", ".txt"],
+        "correcta": 1,
+        "pista": "Es una extensión de imagen muy habitual, que también puede escribirse con tres letras."
+    },
+    {
+        "id": 39,
+        "pregunta": "¿Qué es la nube en informática?",
+        "respuestas": ["Un componente de refrigeración", "Un tipo de procesador", "Servicios de almacenamiento y procesamiento a través de Internet", "Una memoria RAM especial"],
+        "correcta": 2,
+        "pista": "Permite utilizar almacenamiento y servicios informáticos alojados en servidores accesibles por Internet."
+    },
+    {
+        "id": 40,
+        "pregunta": "¿Qué protocolo se utiliza habitualmente para enviar correos electrónicos?",
+        "respuestas": ["SMTP", "FTP", "DHCP", "ARP"],
+        "correcta": 0,
+        "pista": "Es un protocolo de correo electrónico utilizado para el envío de mensajes."
+    },
+    {
+        "id": 41,
+        "pregunta": "¿Qué significa FTP?",
+        "respuestas": ["File Transfer Protocol", "Fast Text Program", "Folder Technical Process", "File Technology Program"],
+        "correcta": 0,
+        "pista": "Son las siglas en inglés de Protocolo de Transferencia de Archivos."
+    },
+    {
+        "id": 42,
+        "pregunta": "¿Qué es una máquina virtual?",
+        "respuestas": ["Un ordenador físico portátil", "Un entorno informático simulado por software", "Un tipo de impresora", "Una memoria USB"],
+        "correcta": 1,
+        "pista": "Permite ejecutar un sistema informático simulado dentro de otro ordenador."
+    },
+    {
+        "id": 43,
+        "pregunta": "¿Qué función tiene un router?",
+        "respuestas": ["Reproducir vídeos", "Editar documentos", "Dirigir el tráfico entre redes", "Almacenar fotografías"],
+        "correcta": 2,
+        "pista": "Es el dispositivo que conecta redes diferentes y encamina los paquetes de datos."
+    },
+    {
+        "id": 44,
+        "pregunta": "¿Qué significa GUI?",
+        "respuestas": ["Graphical User Interface", "General Universal Internet", "Global User Information", "Graphic Utility Installation"],
+        "correcta": 0,
+        "pista": "Son las siglas en inglés de Interfaz Gráfica de Usuario."
+    },
+    {
+        "id": 45,
+        "pregunta": "¿Qué es una copia de seguridad?",
+        "respuestas": ["Una actualización del sistema", "Una copia de los datos para poder recuperarlos", "Un programa de diseño", "Una conexión inalámbrica"],
+        "correcta": 1,
+        "pista": "Permite restaurar información si los archivos originales se pierden o se dañan."
+    },
+    {
+        "id": 46,
+        "pregunta": "¿Qué número utiliza el sistema binario?",
+        "respuestas": ["Del 0 al 9", "Del 1 al 8", "Solamente 0 y 1", "Del 1 al 16"],
+        "correcta": 2,
+        "pista": "Es el sistema de numeración que utiliza únicamente dos dígitos."
+    },
+    {
+        "id": 47,
+        "pregunta": "¿Qué es un firewall?",
+        "respuestas": ["Un sistema que controla el tráfico de red", "Un editor de texto", "Un tipo de memoria", "Un navegador web"],
+        "correcta": 0,
+        "pista": "Actúa como una barrera de seguridad que filtra conexiones y comunicaciones de red."
+    },
+    {
+        "id": 48,
+        "pregunta": "¿Qué extensión suele tener un archivo ejecutable de Windows?",
+        "respuestas": [".pdf", ".exe", ".css", ".png"],
+        "correcta": 1,
+        "pista": "Es la extensión de tres letras que identifica habitualmente programas ejecutables de Windows."
+    },
+    {
+        "id": 49,
+        "pregunta": "¿Qué significa SSH?",
+        "respuestas": ["System Software Host", "Secure System Hardware", "Secure Shell", "Server Sharing Host"],
+        "correcta": 2,
+        "pista": "Son las siglas en inglés de Secure Shell, usado para acceder de forma segura a equipos remotos."
+    },
+    {
+        "id": 50,
+        "pregunta": "¿Qué es una dirección MAC?",
+        "respuestas": ["Un identificador de una interfaz de red", "Una dirección de correo electrónico", "Un tipo de archivo", "Un protocolo de navegación"],
+        "correcta": 0,
+        "pista": "Es un identificador físico asignado a una interfaz de red, normalmente representado en hexadecimal."
+    }
+]

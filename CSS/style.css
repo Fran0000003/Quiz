@@ -1,0 +1,306 @@
+
+/* ESTILOS GENERALES */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* CABECERA */
+header {
+    background-color: #33334d;
+    color: white;
+    padding: 25px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    margin-bottom: 0;
+}
+
+/* ZONA PRINCIPAL */
+main {
+    padding: 30px;
+}
+
+/* TÍTULOS */
+h2 {
+    color: #33334d;
+}
+
+/* BOTONES GENERALES */
+button {
+    background-color: #673ab7;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    margin: 8px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+/* EFECTO AL PASAR EL RATÓN */
+button:hover {
+    background-color: #512da8;
+}
+
+/* BOTONES DESACTIVADOS */
+button:disabled {
+    background-color: #999;
+    cursor: not-allowed;
+}
+
+/* ZONA DEL CUESTIONARIO */
+#zona-quiz {
+    background-color: white;
+    width: 80%;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* PREGUNTA */
+#pregunta {
+    color: #33334d;
+    margin-bottom: 25px;
+}
+
+/* RESPUESTAS */
+#respuestas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* BOTONES DE RESPUESTA */
+#respuestas button {
+    width: 80%;
+    max-width: 500px;
+}
+
+/* RESPUESTA SELECCIONADA */
+.seleccionada {
+    background-color: #ff9800;
+}
+
+/* RESPUESTA CORRECTA */
+.correcta {
+    background-color: #4caf50 !important;
+}
+
+/* RESPUESTA INCORRECTA */
+.incorrecta {
+    background-color: #f44336 !important;
+}
+
+/* CONTADOR DE PREGUNTAS */
+#contador-preguntas {
+    font-weight: bold;
+    color: #33334d;
+    font-size: 18px;
+}
+
+/* CONTENEDOR DE LA BARRA DE PROGRESO */
+#contenedor-progreso {
+    width: 80%;
+    max-width: 500px;
+    height: 15px;
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 15px auto 25px;
+    overflow: hidden;
+}
+
+/* BARRA DE PROGRESO */
+#barra-progreso {
+    width: 0%;
+    height: 100%;
+    background-color: #4caf50;
+    border-radius: 10px;
+    transition: width 0.4s;
+}
+
+/* ESTILO DE LAS PISTAS */
+#ver-pista {
+    background-color: #ff9800;
+    color: white;
+    margin-top: 15px;
+}
+
+#ver-pista:hover {
+    background-color: #e68900;
+}
+
+/* TEXTO DE LA PISTA */
+#texto-pista {
+    background-color: #33334d;
+    color: #ffd166;
+    border: 2px solid #ff9800;
+    border-radius: 10px;
+    padding: 15px;
+    width: 80%;
+    max-width: 600px;
+    margin: 20px auto;
+    font-size: 17px;
+    line-height: 1.5;
+}
+
+/* PANTALLA DE RESULTADOS */
+#zona-resultados {
+    background-color: white;
+    width: 80%;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* RESULTADO DE LA PUNTUACIÓN */
+#resultado-puntuacion {
+    font-size: 20px;
+    font-weight: bold;
+    color: #33334d;
+    margin: 25px 0;
+}
+
+/* CAMPO DEL NOMBRE */
+#nombre-jugador {
+    padding: 12px;
+    width: 70%;
+    max-width: 300px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+/* DISEÑO DEL RANKING */
+#lista-ranking,
+#lista-ranking-menu {
+    width: 80%;
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: left;
+}
+
+/* LISTAS DE PUNTUACIONES */
+#lista-ranking ol,
+#lista-ranking-menu ol {
+    padding-left: 40px;
+}
+
+/* CADA JUGADOR */
+#lista-ranking li,
+#lista-ranking-menu li {
+    background-color: #33334d;
+    color: white;
+    padding: 12px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+/* PRIMER PUESTO */
+#lista-ranking li:nth-child(1),
+#lista-ranking-menu li:nth-child(1) {
+    background-color: #d4af37;
+    color: #222;
+    font-weight: bold;
+}
+
+/* SEGUNDO PUESTO */
+#lista-ranking li:nth-child(2),
+#lista-ranking-menu li:nth-child(2) {
+    background-color: #a7a7a7;
+    color: #222;
+    font-weight: bold;
+}
+
+/* TERCER PUESTO */
+#lista-ranking li:nth-child(3),
+#lista-ranking-menu li:nth-child(3) {
+    background-color: #cd7f32;
+    color: white;
+    font-weight: bold;
+}
+
+/* ORGANIZACIÓN DE LOS CUESTIONARIOS */
+#menu-cuestionarios {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+/* SEPARADOR DEL MENÚ */
+#separador-menu {
+    width: 60%;
+    max-width: 400px;
+    margin: 30px auto 20px;
+    border: none;
+    border-top: 2px solid #555;
+}
+
+/* BOTÓN PARA VER EL RANKING */
+#ver-ranking-menu {
+    background-color: #d4af37;
+    color: #222;
+    border: 2px solid #b89520;
+    font-weight: bold;
+    padding: 14px 30px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+/* EFECTO AL PASAR EL RATÓN */
+#ver-ranking-menu:hover {
+    background-color: #f1cc50;
+    transform: scale(1.05);
+}
+
+/* PANTALLA DEL RANKING */
+#zona-ranking-menu {
+    background-color: white;
+    width: 80%;
+    max-width: 700px;
+    margin: 30px auto;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* ADAPTACIÓN A MÓVILES */
+@media (max-width: 600px) {
+
+    #zona-quiz,
+    #zona-resultados,
+    #zona-ranking-menu {
+        width: 90%;
+        padding: 15px;
+        box-sizing: border-box;
+    }
+
+    #respuestas button {
+        width: 100%;
+    }
+
+    #lista-ranking,
+    #lista-ranking-menu {
+        width: 95%;
+    }
+
+    #nombre-jugador {
+        width: 90%;
+        box-sizing: border-box;
+    }
+
+}
